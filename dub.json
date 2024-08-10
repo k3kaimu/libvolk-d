@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Kazuki Komatsu"
+	],
+	"copyright": "Copyright © 2024, Kazuki Komatsu",
+	"description": "Binding library of libvolk",
+	"license": "NYSL",
+	"name": "volkd",
+	"libs": ["volk"]
+}
